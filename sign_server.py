@@ -4,7 +4,7 @@ import rsa
 import base64
 import struct
 from flask import Flask, request, abort, Response
-from flask.ext.script import Server, Manager
+from flask_script import Server, Manager
 
 __author__ = 'florije'
 
