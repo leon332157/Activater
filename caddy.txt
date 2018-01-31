@@ -1,2 +1,0 @@
-:5555
-proxy / idea.imsxm.com:80
